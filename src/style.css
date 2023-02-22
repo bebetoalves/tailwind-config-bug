@@ -1,0 +1,5 @@
+@config '../tailwind.portal.config.cjs';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
